@@ -1,5 +1,4 @@
-# APlayBoy.github.io
-# GIT REPO
+# Code
 
 ## [deeplearning](https://github.com/APlayBoy/deeplearning) 
 * 用[CNN](https://github.com/APlayBoy/deeplearning/tree/master/image_classification)做简单的分类
@@ -35,7 +34,7 @@ $\quad\ $之前看文章时，不注意总结和留笔记，随着时间的流�
  * [Denoising DiffusionProbabilistic Models(DDPM)](https://zhuanlan.zhihu.com/p/626688571)
 
  ## GPT
- * 
+ * [GPT系列总述](https://zhuanlan.zhihu.com/p/630009840)
  * 
 
  ## CLIP
