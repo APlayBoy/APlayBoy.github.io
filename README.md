@@ -37,11 +37,14 @@
 ## GPT
 * 
 * 
+
 ## CLIP
 * 
 * 
+
 ## Reinforcement Learning
 * 
+
 ## Unsupervised Learning
 *
 
