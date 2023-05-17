@@ -30,21 +30,21 @@ $\quad\ $之前看文章时，不注意总结和留笔记，随着时间的流�
 * [From Autoencoder to TD-VAE](https://zhuanlan.zhihu.com/p/623397006)
 * [Auto-Encoding Variational Bayes(VAE)](https://zhuanlan.zhihu.com/p/627313458) 
 
- ## Diffusion Model
+## Diffusion Model
  * [Denoising DiffusionProbabilistic Models(DDPM)](https://zhuanlan.zhihu.com/p/626688571)
 
  ## GPT
  * [GPT系列总述](https://zhuanlan.zhihu.com/p/630009840)
  * 
 
- ## CLIP
+## CLIP
 * 
 * 
 
- ## Reinforcement Learning
+## Reinforcement Learning
 * 
 
- ## Unsupervised Learning
+## Unsupervised Learning
 *
 
 
