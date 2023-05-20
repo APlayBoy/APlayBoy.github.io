@@ -32,12 +32,12 @@
 
 ## Diffusion Model
 
- | 标题  |简称 |内容 |
- |:--|:--|:--|
- |[Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/626688571)|DDPM|译文|
- |[Denoising Diffusion Implicit Models](https://zhuanlan.zhihu.com/p/628378813)|DDIM|笔记|
- |[Improved Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/630677971)|improved diffusion|笔记|
- |[Diffusion Models Beat GANs on Image Synthesis](https://zhuanlan.zhihu.com/p/630911762)|guided diffusion|笔记|
+ | 标题  |简称 |内容 | 作者 |
+ |:--|:--|:--|:--|
+ |[Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/626688571)|DDPM|译文|UC Berkeley|
+ |[Denoising Diffusion Implicit Models](https://zhuanlan.zhihu.com/p/628378813)|DDIM|笔记|Stanford University|
+ |[Improved Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/630677971)|improved diffusion|笔记|OpenAI|
+ |[Diffusion Models Beat GANs on Image Synthesis](https://zhuanlan.zhihu.com/p/630911762)|guided diffusion|笔记|OpenAI|
 
 ## GPT
  * [GPT系列总述](https://zhuanlan.zhihu.com/p/630009840)
