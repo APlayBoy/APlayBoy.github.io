@@ -31,12 +31,13 @@
 * [Auto-Encoding Variational Bayes(VAE)](https://zhuanlan.zhihu.com/p/627313458) 
 
 ## Diffusion Model
- | 标题|简称 |内容 |
- |:-----|:---|:---|
+
+ | 标题  |简称 |内容 |
+ |:--|:--|:--|
  |[Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/626688571)|DDPM|译文|
  |[Denoising Diffusion Implicit Models](https://zhuanlan.zhihu.com/p/628378813)|DDIM|笔记|
  |[Improved Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/630677971)|improved diffusion|笔记|
- |[Diffusion Models Beat GANs on Image Synthesis](https://zhuanlan.zhihu.com/p/630911762)|guided-diffusion|笔记|
+ |[Diffusion Models Beat GANs on Image Synthesis](https://zhuanlan.zhihu.com/p/630911762)|guided diffusion|笔记|
 
 ## GPT
  * [GPT系列总述](https://zhuanlan.zhihu.com/p/630009840)
