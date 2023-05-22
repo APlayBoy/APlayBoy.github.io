@@ -39,6 +39,7 @@
  |[Improved Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/630677971)|improved diffusion|笔记|OpenAI|
  |[Diffusion Models Beat GANs on Image Synthesis](https://zhuanlan.zhihu.com/p/631037773)|guided diffusion|笔记|OpenAI|
  |[Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://zhuanlan.zhihu.com/p/631042461)|GLIDE|笔记|OpenAI|
+ |[Hierarchical Text-Conditional Image Generation with CLIP Latents](https://zhuanlan.zhihu.com/p/631283028)|DALLE-2 \| UNCLIP|笔记|OpenAI|
 
 ## GPT
  * [GPT系列总述](https://zhuanlan.zhihu.com/p/630009840)
