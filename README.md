@@ -50,7 +50,7 @@
 * 
 
 ## Reinforcement Learning
-* 
+* [强化学习基础笔记](https://zhuanlan.zhihu.com/p/632103344)
 
 ## Unsupervised Learning
 
@@ -58,6 +58,6 @@
 |:--|:--|:--|
 |[对比学习论文总结](https://zhuanlan.zhihu.com/p/631863971)|重要文章内容简述|-|
 |[对比学习之百花齐放](https://zhuanlan.zhihu.com/p/631960375)|技术尝试阶段|InstDisc、InvaSpread、CPC、CMC、DeepCluster|
-|对比学习之CV双雄|对比学习方法趋于统一|MoCo v1-2、SimCLR v1-2、SWaV|
-|对比学习之无负样本|摆脱了负样本的限制|BYOL、SimSiam、BYOL|
-|对比学习之Transformer|vit和对比学习组合的落地|MoCov3、DINO|
+|[对比学习之CV双雄](https://zhuanlan.zhihu.com/p/631974914)|对比学习方法趋于统一|MoCo v1-2、SimCLR v1-2、SWaV|
+|[对比学习之无负样本](https://zhuanlan.zhihu.com/p/632483233)|摆脱了负样本的限制|BYOL、SimSiam、BYOL v2|
+|[对比学习之Transformer](https://zhuanlan.zhihu.com/p/632538243)|vit和对比学习组合的落地|MoCov3、DINO|
