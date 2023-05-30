@@ -45,9 +45,14 @@
  * [GPT系列总述](https://zhuanlan.zhihu.com/p/630009840)
  * 
 
-## CLIP
-* 
-* 
+## 多模态
+
+|分类| 标题  |说明|
+|:--|:--|:--|
+|CLIP原文| [CLIP](https://zhuanlan.zhihu.com/p/633205841)|图片和文本之间的对比学习
+|CLIP应用|[LSeg](https://zhuanlan.zhihu.com/p/633073728)|有监督的开集分割
+
+
 
 ## Reinforcement Learning
 * [强化学习基础笔记](https://zhuanlan.zhihu.com/p/632103344)
