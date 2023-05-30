@@ -49,6 +49,7 @@
 
 |分类| 标题  |说明|
 |:--|:--|:--|
+|微调模型|[LoRA](https://zhuanlan.zhihu.com/p/633204266)|用很小的成本驾驭大模型|
 |CLIP原文| [CLIP](https://zhuanlan.zhihu.com/p/633205841)|图片和文本之间的对比学习
 |CLIP应用|[LSeg](https://zhuanlan.zhihu.com/p/633073728)|有监督的开集分割
 
