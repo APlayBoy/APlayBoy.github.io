@@ -40,9 +40,9 @@
  |[Diffusion Models Beat GANs on Image Synthesis](https://zhuanlan.zhihu.com/p/631037773)|guided diffusion|扩散模型首次超越GAN|OpenAI|
  |[Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://zhuanlan.zhihu.com/p/631042461)|GLIDE|classfier-free+图片编辑|OpenAI|
  |[Hierarchical Text-Conditional Image Generation with CLIP Latents](https://zhuanlan.zhihu.com/p/631283028)|DALLE-2 or UNCLIP|文本生成图像新高度|OpenAI|
- |[High-Resolution Image Synthesis with Latent Diffusion Models Robin](https://zhuanlan.zhihu.com/p/628681685)|Stable-Diffusion|收个大型开源的扩散模型|
- |[ControlNet:Adding Conditional Control to Text-to-Image Diffusion Models](https://zhuanlan.zhihu.com/p/633491149)|ControlNet|人人用得起扩散模型||
- |[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation Nataniel](https://zhuanlan.zhihu.com/p/633878755)|DreamBooth|生成图片时可以输入指定图片||
+ |[High-Resolution Image Synthesis with Latent Diffusion Models Robin](https://zhuanlan.zhihu.com/p/628681685)|Stable-Diffusion|收个大型开源的扩散模型|Ludwig Maximilian University of Munich & IWR, Heidelberg University|
+ |[ControlNet:Adding Conditional Control to Text-to-Image Diffusion Models](https://zhuanlan.zhihu.com/p/633491149)|ControlNet|人人用得起扩散模型|Stanford University|
+ |[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation Nataniel](https://zhuanlan.zhihu.com/p/633878755)|DreamBooth|生成图片时可以输入指定图片|Google Research & Boston University|
 
 ## GPT
  * [GPT系列总述](https://zhuanlan.zhihu.com/p/630009840)
