@@ -32,14 +32,17 @@
 
 ## Diffusion Model
 
- | 标题  |简称 |内容 | 作者 |
+ | 标题  |简称 |简介 | 作者 |
  |:--|:--|:--|:--|
- |[Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/626688571)|DDPM|译文|UC Berkeley|
- |[Denoising Diffusion Implicit Models](https://zhuanlan.zhihu.com/p/628378813)|DDIM|笔记|Stanford University|
- |[Improved Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/630677971)|improved diffusion|笔记|OpenAI|
- |[Diffusion Models Beat GANs on Image Synthesis](https://zhuanlan.zhihu.com/p/631037773)|guided diffusion|笔记|OpenAI|
- |[Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://zhuanlan.zhihu.com/p/631042461)|GLIDE|笔记|OpenAI|
- |[Hierarchical Text-Conditional Image Generation with CLIP Latents](https://zhuanlan.zhihu.com/p/631283028)|DALLE-2 \| UNCLIP|笔记|OpenAI|
+ |[Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/626688571)|DDPM|扩散模型的里程碑|UC Berkeley|
+ |[Denoising Diffusion Implicit Models](https://zhuanlan.zhihu.com/p/628378813)|DDIM|加速采样过程|Stanford University|
+ |[Improved Denoising Diffusion Probabilistic Models](https://zhuanlan.zhihu.com/p/630677971)|improved diffusion|扩散细节优化|OpenAI|
+ |[Diffusion Models Beat GANs on Image Synthesis](https://zhuanlan.zhihu.com/p/631037773)|guided diffusion|扩散模型首次超越GAN|OpenAI|
+ |[Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://zhuanlan.zhihu.com/p/631042461)|GLIDE|classfier-free+图片编辑|OpenAI|
+ |[Hierarchical Text-Conditional Image Generation with CLIP Latents](https://zhuanlan.zhihu.com/p/631283028)|DALLE-2 or UNCLIP|文本生成图像新高度|OpenAI|
+ |[High-Resolution Image Synthesis with Latent Diffusion Models Robin](https://zhuanlan.zhihu.com/p/628681685)|Stable-Diffusion|收个大型开源的扩散模型|
+ |[ControlNet:Adding Conditional Control to Text-to-Image Diffusion Models](https://zhuanlan.zhihu.com/p/633491149)|ControlNet|人人用得起扩散模型||
+ |[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation Nataniel](https://zhuanlan.zhihu.com/p/633878755)|DreamBooth|生成图片时可以输入指定图片||
 
 ## GPT
  * [GPT系列总述](https://zhuanlan.zhihu.com/p/630009840)
