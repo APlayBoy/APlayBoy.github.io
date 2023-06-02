@@ -79,3 +79,4 @@
 |[对比学习之CV双雄](https://zhuanlan.zhihu.com/p/631974914)|对比学习方法趋于统一|MoCo v1-2、SimCLR v1-2、SWaV|
 |[对比学习之无负样本](https://zhuanlan.zhihu.com/p/632483233)|摆脱了负样本的限制|BYOL、SimSiam、BYOL v2|
 |[对比学习之Transformer](https://zhuanlan.zhihu.com/p/632538243)|vit和对比学习组合的落地|MoCov3、DINO|
+|基于mask的无监督|图片离散token的预测|Deit、Deit-v2|
