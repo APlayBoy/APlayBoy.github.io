@@ -54,7 +54,16 @@
 |:--|:--|:--|
 |微调模型|[LoRA](https://zhuanlan.zhihu.com/p/633204266)|用很小的成本驾驭大模型|
 |CLIP原文| [CLIP](https://zhuanlan.zhihu.com/p/633205841)|图片和文本之间的对比学习
-|CLIP应用|[LSeg](https://zhuanlan.zhihu.com/p/633073728)|有监督的开集分割
+|CLIP应用|[LSeg](https://zhuanlan.zhihu.com/p/633073728)|有监督的开集分割|
+|总结|[预训练模型总结](https://zhuanlan.zhihu.com/p/633946545)|多模态预训练模型总结|
+|多模态预训练|[ViLT](https://zhuanlan.zhihu.com/p/633908947)|把目标检测从视觉端拿掉，用transformer结构，增加模态融合的权重|
+|多模态预训练|[ALBeF](https://zhuanlan.zhihu.com/p/633953705)|多模态融合之前对齐模态特征|
+|多模态预训练|[VLMo](https://zhuanlan.zhihu.com/p/633984456)|提出混合模态专家Transformer,不同模态权重共享，分阶段训练|
+|多模态预训练|[CoCa](https://zhuanlan.zhihu.com/p/634039462)|文本端只用deocde训练，提升训练效率|
+|多模态预训练|[BLIP](https://zhuanlan.zhihu.com/p/634025087)|通过decoder生成字幕，字幕器和过滤器引清晰数据，文本docoder、encoderg共享权重|
+|多模态预训练|[BeiT V3](https://zhuanlan.zhihu.com/p/634043351)|所有技术的大一统|
+
+
 
 
 
