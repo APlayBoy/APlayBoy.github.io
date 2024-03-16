@@ -1,6 +1,6 @@
 # LLM之大模型之Alpaca 7B模型解析
 
-去年Alpaca 7B模型，不仅展示了在处理指令遵循任务上的出色能力，还因其相对小的规模和低廉的复现成本而引起了大家的注意。在本篇博客中，汇总了官方报告和官方Git的内容，通过阅读可以了解Alpaca 7B模型的起源、训练过程、性能评估以及其潜在的应用和限制。我们还将探讨其在人工智能研究领域的重要性，以及为何它对学术界尤其具有吸引力。让我们一起走进ALpaca，深入理解这一代表了AI领域最新发展的创新成果。
+去年的Alpaca 7B模型，不仅展示了在处理指令任务上的出色能力，还因其相对小的规模和低廉的复现成本而引起了大家的注意。在本篇博客中，汇总了官方报告和官方Git的内容，通过阅读可以了解Alpaca 7B模型的起源、训练过程、性能评估以及其潜在的应用和限制。让我们一起走进ALpaca，深入理解这一代表了AI领域最新发展的创新成果。
 
 * 官方链接：[https://crfm.stanford.edu/2023/03/13/alpaca.html](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 * 官方Git：[tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
