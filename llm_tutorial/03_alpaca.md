@@ -23,7 +23,7 @@ $\quad$ Alpaca的基础是Meta发布的新型LLaMA模型，这是一系列强大
 ## 高质量的指令遵循数据
 ![指令数据的分布图](image/alpaca_02.png)
 
-$\quad$ 为了训练Alpaca，研究团队面临的第二个挑战是获取高质量的指令遵循数据。他们采用了一个创新的方法，即使用OpenAI的text-davinci-003模型自动生成这些数据。具体来说，他们从[self-instruct](https://github.com/yizhongw/self-instruct/blob/main/data/seed_tasks.jsonl)的175个人类编写的指令-输出对开始，然后使用text-davinci-003来生成更多的指令，以这些为上下文示例。通过这种方式，团队生成了52K个独特的指令和相应的输出，整个过程的成本不到500美元。指令数据的分布我们可以在上图中看到。
+$\quad$ 为了训练Alpaca，研究团队面临的第二个挑战是获取高质量的指令遵循数据。他们采用了一个创新的方法，即使用OpenAI的text-davinci-003模型自动生成这些数据。具体来说，他们从[self-instruct](https://github.com/yizhongw/self-instruct/blob/main/data/seed_tasks.jsonl)的175个人类编写的指令-输出对开始，然后使用OpenAI的text-davinci-003模型来生成更多的指令，以这些为上下文示例。通过这种方式，团队生成了52K个独特的指令和相应的输出，整个过程的成本不到500美元。指令数据的分布我们可以在上图中看到。
 文件 [alpaca_data.json](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) 包含了用于微调Alpaca模型的52,000条指令遵循数据。这个JSON文件是一个字典列表，每个字典包含以下字段：
 
 * 指令（instruction）: 字符串类型，描述模型需要执行的任务。这52,000条指令每一条都是独一无二的。
